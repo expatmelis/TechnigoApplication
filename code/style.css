@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: green;
+  text-align: center;
+  font-family:verdana;
+  font-size:50px;
+}
+h2 {
+  color: green;
+  font-family:verdana;
+  font-size:25px;
+}
+p {
+  font-family: verdana;
+  font-size: 16px;
+}
+p {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-right: 275px;
+  margin-left: 20px;
+}
+a {
+  color: navy;
+}
+a {
+  text-decoration: none;
+}
+img {
+  float: right;
+  position: fixed;
+  top: 20;
+  right: 0;
+  margin-right: 40px
+  height: auto; width: 200px
+  opacity: 0.75;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+  padding: 10px;
+  border-style: solid;
+  border-color: green;
+}
+</style>
+</head>
+<body>
